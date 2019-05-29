@@ -1,5 +1,5 @@
 {
-  "name": "weekly-report-generator-generator",
+  "name": "weekly-report-generator",
   "version": "1.0.0",
   "description": "frontend logo memory game",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zerosoul/weekly-report-generator-generator.git"
+    "url": "git+https://github.com/zerosoul/weekly-report-generator.git"
   },
   "keywords": [
     "game",
@@ -22,9 +22,9 @@
   "author": "tristan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zerosoul/weekly-report-generator-generator/issues"
+    "url": "https://github.com/zerosoul/weekly-report-generator/issues"
   },
-  "homepage": "https://zerosoul.github.io/weekly-report-generator-generator",
+  "homepage": "https://zerosoul.github.io/weekly-report-generator",
   "dependencies": {
     "body-scroll-lock": "^2.6.1",
     "react": "^16.8.6",
