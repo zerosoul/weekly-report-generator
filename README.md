@@ -1,3 +1,3 @@
-# weekly-report-generator-generator
+# weekly-report-generator
 
-frontend logo memory game
+[online weekly report generator](https://zerosoul.github.io/weekly-report-generator/)
