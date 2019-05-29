@@ -1,0 +1,17 @@
+{
+  "header": "WRG",
+  "intro": "Weekly Report Generator",
+  "thisWeek": "THIS WEEK",
+  "nextWeek": "NEXT WEEK",
+  "thisWeekIntro": "What You Do This Week",
+  "nextWeekIntro": "What Is Your Plan Next Week",
+  "title": "Title",
+  "progress": "Prgress",
+  "remark": "Remark",
+  "add": "ADD",
+  "placeholders": {
+    "title": "title",
+    "progress": "pregress",
+    "remark": "remark/detail"
+  }
+}

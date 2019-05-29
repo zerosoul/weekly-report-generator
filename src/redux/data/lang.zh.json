@@ -1,0 +1,17 @@
+{
+  "header": "WRG",
+  "intro": "周报生成器",
+  "thisWeek": "本 周",
+  "nextWeek": "下 周",
+  "thisWeekIntro": "本周都做了哪些事呢",
+  "nextWeekIntro": "下周计划做哪些事呢",
+  "title": "标题",
+  "progress": "进度",
+  "remark": "备注/详情",
+  "add": "提交",
+  "placeholders": {
+    "title": "标题",
+    "progress": "进度",
+    "remark": "备注/详情"
+  }
+}
